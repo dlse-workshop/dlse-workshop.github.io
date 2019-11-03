@@ -30,7 +30,7 @@ Time | Room | Event
 8:30am - 8:45am | Plenary Room | Workshop Introduction - Sol, Baishaki, and Denys
 8:45am - 9:00am | Plenary Room | Workshop Logistics - Baishaki & Denys
 9:00am - 10:00am | Plenary Room | Participant Introductions - All Participants
-10:00am - 10:30am | Plenary Room | Introduction of Breakout Session Topics: <br> Deep Learning for Software Engineering - Prem Devanbu <br> Verification & Validation of Deep Learning Systems - Matt Dwyer <br> Development Challeneges for Deep Learning Systems - Mike Lowry <br> Maintenance of Deep Learning Systems - Xiangyu <br> Testing of Deep Learning Systems - Baishaki Ray <br> Deployment of Deep Learning Systems - Rishab Singh <br> Cross Cutting Concerns for Deep Learning & Software Engineering - Denys Poshyvanyk
+10:00am - 10:30am | Plenary Room | Introduction of Breakout Session Topics: <br> 1. *Deep Learning for Software Engineering* - Prem Devanbu <br> 2. *Verification & Validation of Deep Learning Systems* - Matt Dwyer <br> 3. *Development Challeneges for Deep Learning Systems* - Mike Lowry <br> 4. *Maintenance of Deep Learning Systems* - Xiangyu <br> 5. *Testing of Deep Learning Systems* - Baishaki Ray <br> 6. *Deployment of Deep Learning Systems* - Rishab Singh <br> 7. *Cross Cutting Concerns for Deep Learning & Software Engineering* - Denys Poshyvanyk
 
 #### Coffee Break 1
 
