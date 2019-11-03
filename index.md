@@ -17,8 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Sunday November 10th
 
-
-
 Time | Room | Event
 ------------ | -------------
 5:00pm - 6:00pm | Room 1 | Light Dinner and Reception
@@ -28,6 +26,8 @@ Time | Room | Event
 
 ### Monday November 11th
 
+#### Session 1
+
 Time | Room | Event
 ------------ | -------------
 8:30am - 8:45am | Plenary Room | Workshop Introduction: Sol, Baishaki, and Denys
@@ -35,40 +35,56 @@ Time | Room | Event
 9:00am - 10:00am | Plenary Room | Participant Introductions: All Participants
 10:00am - 10:30am | Plenary Room | Introduction of Breakout Session Topics: <br> Deep Learning for Software Engineering - Prem Devanbu <br> Verification & Validation of Deep Learning Systems - Matt Dwyer <br> Development Challeneges for Deep Learning Systems - Mike Lowry <br> Maintenance of Deep Learning Systems - Xiangyu <br> Testing of Deep Learning Systems - Baishaki Ray <br> Deployment of Deep Learning Systems - Rishab Singh <br> Cross Cutting Concerns for Deep Learning & Software Engineering - Denys Poshyvanyk
 
+#### Coffee Break 1
 
-|-----|-----|
+Time | Room | Event
+------------ | -------------
 10:30am - 10:45am | Coffee Room | Coffee Break
 
+#### Session 2
 
-|-----|-----|
+Time | Room | Event
+------------ | -------------
 10:45am - 11:45am | Room 1 | Breakout Session 1
 10:45am - 11:45am | Room 2 | Breakout Session 2
 10:45am - 11:45am | Room 3 | Breakout Session 3
 11:45am - 1:00pm | Plenary Room | Plenary Discussion Session
 
+#### Lunch
 
-|-----|-----|
+Time | Room | Event
+------------ | -------------
 1:00pm - 2:00Pm | Lunch Room | Lunch (Co-Located with ASE'19 Workshops)
 
+#### Session 3
 
-|-----|-----|
+Time | Room | Event
+------------ | -------------
 2:00pm - 3:00pm | Room 1 | Breakout Session 4
 2:00pm - 3:00pm | Room 2 | Breakout Session 5
 2:00pm - 3:00pm | Room 3 | Breakout Session 6
 3:00pm - 3:45pm | Plenary Room | Plenary Discussion Session
 
+#### Coffee Break 2
 
-|-----|-----|
+Time | Room | Event
+------------ | -------------
 3:45am - 4:00pm | Coffee Room | Coffee Break
 
 
-|-----|-----|
+#### Session 4
+
+Time | Room | Event
+------------ | -------------
 4:00pm - 4:30pm | Plenary Room | Continuation of Plenary Discussion Session
 4:30pm - 6:00pm | Plenary Room | Plenary Discussion Topic 7
 
+#### Workshop Dinner
 
-|-----|-----|
+Time | Room | Event
+------------ | -------------
 7:00pm - 9:00pm | Dinner Location | Workshop Dinner at the Hotel
+
 
 ## Organizing Committee
 
