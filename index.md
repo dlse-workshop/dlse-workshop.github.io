@@ -55,6 +55,7 @@ Time | Room | Event
 ## Organizing Committee
 
 [Denys Poshyvanyk](http://www.cs.wm.edu/~denys/index.html)
+
 [Baishaki Ray](http://rayb.info)
 
 
