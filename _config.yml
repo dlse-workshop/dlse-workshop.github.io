@@ -54,6 +54,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+author:
+  name   : "NSF DLSE Workshop"
+  avatar : "/assets/images/nsf-logo.jpg"
 
 footer:
   links:
