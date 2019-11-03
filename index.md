@@ -35,8 +35,7 @@ Time | Room | Event
 10:00am - 10:04am | Plenary Room | Introduction to Breakout Session 1: *Deep Learning for Software Engineering* - Prem Devanbu  
 10:04am - 10:08am | Plenary Room | Introduction to Breakout Session 2: *Verification & Validation of Deep Learning Systems* - Matt Dwyer 
 10:08am - 10:12am | Plenary Room | Introduction to Breakout Session 3: *Development Challeneges for Deep Learning Systems* - Mike Lowry 
-10:12am - 10:16am | Plenary Room | Introduction to Breakout Session 4: *Maintenance of Deep Learning Systems* 
-- Xiangyu 
+10:12am - 10:16am | Plenary Room | Introduction to Breakout Session 4: *Maintenance of Deep Learning Systems* - Xiangyu 
 10:16am - 10:20am | Plenary Room | Introduction to Breakout Session 5: *Testing of Deep Learning Systems* - Baishaki Ray 
 10:20am - 10:24am | Plenary Room | Introduction to Breakout Session 6: *Deployment of Deep Learning Systems* - Rishab Singh
 10:24am - 10:30am | Plenary Room | Introduction to Breakout Session 7: *Cross Cutting Concerns for Deep Learning & Software Engineering* - Denys Poshyvanyk
