@@ -10,16 +10,16 @@ This is the website for the 2019 NSF Workshop on Deep Learning and Software Engi
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Workshop Program
+## Program Overview
 
 ### Sunday November 10th
 
 Time | Room | Event
 ------------ | -------------
 5:00pm - 6:00pm | Room 1 | Light Dinner and Reception
-6:00pm - 6:20pm | Room 2 | Lightning Talk 1
-6:20pm - 6:40pm | Room 2 | Lightning Talk 2
-6:40pm - 7:00pm | Room 2 | Lightning Talk 3
+6:00pm - 6:20pm | Room 2 | [Lightning Talk 1]() - Presenter 1
+6:20pm - 6:40pm | Room 2 | [Lightning Talk 2]() - Presenter 2
+6:40pm - 7:00pm | Room 2 | [Lightning Talk 3]() - Presenter 3
 
 ### Monday November 11th
 
@@ -27,10 +27,10 @@ Time | Room | Event
 
 Time | Room | Event
 ------------ | -------------
-8:30am - 8:45am | Plenary Room | **Workshop Introduction** - Sol, Baishaki, and Denys
-8:45am - 9:00am | Plenary Room | **Workshop Logistics** - Baishaki & Denys
-9:00am - 10:00am | Plenary Room | **Participant Introductions** - All Participants
-10:00am - 10:30am | Plenary Room | Introduction of Breakout Session Topics: <br> 1. **Deep Learning for Software Engineering** - Prem Devanbu <br> 2. **Verification & Validation of Deep Learning Systems** - Matt Dwyer <br> 3. **Development Challeneges for Deep Learning Systems** - Mike Lowry <br> 4. **Maintenance of Deep Learning Systems** - Xiangyu <br> 5. **Testing of Deep Learning Systems** - Baishaki Ray <br> 6. **Deployment of Deep Learning Systems** - Rishab Singh <br> 7. **Cross Cutting Concerns for Deep Learning & Software Engineering** - Denys Poshyvanyk
+8:30am - 8:45am | Plenary Room | [**Workshop Introduction**](#workshop-introduction) - Sol, Baishaki, and Denys
+8:45am - 9:00am | Plenary Room | [**Workshop Logistics**]() - Baishaki & Denys
+9:00am - 10:00am | Plenary Room | [**Participant Introductions**]() - All Participants
+10:00am - 10:30am | Plenary Room | [**Introduction of Breakout Session Topics**]() - Session Leads
 
 #### Coffee Break 1
 
@@ -83,11 +83,29 @@ Time | Room | Event
 7:00pm - 9:00pm | Dinner Location | Workshop Dinner at the Hotel
 
 
+## Program Details
+
+### Sunday November 10th
+
+
+
+### Monday November 11th
+
+#### Session 1 Details
+
+##### Workshop Introduction
+* **Time:** 8:30am - 8:45am
+* **Room:** Plenary Room
+* **Presenters:** Sol, Baishaki, and Denys
+* **Description:** The organizing committee will open the workshop and introduce its purpose and themes.
+
 ## Organizing Committee
 
 [Denys Poshyvanyk](http://www.cs.wm.edu/~denys/index.html)
 
 [Baishaki Ray](http://rayb.info)
+
+[Sol Greenspan](https://www.nsf.gov/staff/staff_bio.jsp?lan=sgreensp&org=NSF&from_org=NSF)
 
 
 ## Steering Committee
