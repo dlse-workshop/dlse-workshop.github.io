@@ -6,8 +6,6 @@ toc_label: "Navigation"
 author_profile: true
 ---
 
-# Overview
-
 This is the website for the 2019 NSF Workshop on Deep Learning and Software Engineering (DLSE) co-located with the 34th IEEE/ACM International Conference on Automated Software Engineering ([ASE'19](https://2019.ase-conferences.org)). 
 
 ## Workshop Theme & Purpose
