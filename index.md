@@ -30,7 +30,7 @@ Time | Room | Event
 8:30am - 8:45am | Plenary Room | [**Workshop Introduction**](#workshop-introduction) - Sol, Baishaki, and Denys
 8:45am - 9:00am | Plenary Room | [**Workshop Logistics**](#workshop-logistics) - Baishaki & Denys
 9:00am - 10:00am | Plenary Room | [**Participant Introductions**](#workshop-participant-introductions) - All Participants
-10:00am - 10:30am | Plenary Room | [**Introduction of Breakout Session Topics**]() - Session Leads
+10:00am - 10:30am | Plenary Room | [**Introduction of Breakout Session Topics**](#introduction-of-breakout-sessions) - Session Leads
 
 #### Coffee Break 1
 
@@ -102,6 +102,19 @@ Time | Room | Event
 * **Room:** Plenary Room
 * **Presenters:** All Participants
 * **Description:** Each workshop participant will be given 2-3 minutes to introduce themselves to the other attendees. Please have a short 2-3 minute oral introduction prepared.
+
+### Introduction of Breakout Sessions
+* **Time:** 9:00am - 10:00am
+* **Room:** Plenary Room
+* **Presenters:** All Participants
+* **Description:** Each Breakout session leader will introduce thier own session, including its themes and goals.
+  * **Session 1**: *Deep Learning for Software Engineering* - Prem Devanbu
+  * **Session 2**: *Verification & Validation of Deep Learning Systems* - Matt Dwyer
+  * **Session 3**: *Development Challeneges for Deep Learning Systems* - Mike Lowry
+  * **Session 4**: *Maintenance of Deep Learning Systems* - Xiangyu 
+  * **Session 5**: *Testing of Deep Learning Systems* - Baishaki Ray
+  * **Session 6**: *Deployment of Deep Learning Systems* - Rishab Singh
+  * **Session 7**: *Cross Cutting Concerns for Deep Learning & Software Engineering* - Denys Poshyvanyk
 
 
 
