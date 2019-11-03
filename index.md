@@ -28,8 +28,8 @@ Time | Room | Event
 Time | Room | Event
 ------------ | -------------
 8:30am - 8:45am | Plenary Room | [**Workshop Introduction**](#workshop-introduction) - Sol, Baishaki, and Denys
-8:45am - 9:00am | Plenary Room | [**Workshop Logistics**]() - Baishaki & Denys
-9:00am - 10:00am | Plenary Room | [**Participant Introductions**]() - All Participants
+8:45am - 9:00am | Plenary Room | [**Workshop Logistics**](#workshop-logistics) - Baishaki & Denys
+9:00am - 10:00am | Plenary Room | [**Participant Introductions**](#workshop-participant-introductions) - All Participants
 10:00am - 10:30am | Plenary Room | [**Introduction of Breakout Session Topics**]() - Session Leads
 
 #### Coffee Break 1
@@ -85,19 +85,26 @@ Time | Room | Event
 
 ## Program Details
 
-### Sunday November 10th
-
-
-
-### Monday November 11th
-
-#### Session 1 Details
-
-##### Workshop Introduction
+### Workshop Introduction
 * **Time:** 8:30am - 8:45am
 * **Room:** Plenary Room
 * **Presenters:** Sol, Baishaki, and Denys
 * **Description:** The organizing committee will open the workshop and introduce its purpose and themes.
+
+### Workshop Logistics
+* **Time:** 8:45am - 9:00am
+* **Room:** Plenary Room
+* **Presenters:** Baishaki, and Denys
+* **Description:** The workshop schedule and logistics will be discussed.
+
+### Workshop Participant Introductions
+* **Time:** 9:00am - 10:00am
+* **Room:** Plenary Room
+* **Presenters:** All Participants
+* **Description:** Each workshop participant will be given 2-3 minutes to introduce themselves to the other attendees. Please have a short 2-3 minute oral introduction prepared.
+
+
+
 
 ## Organizing Committee
 
