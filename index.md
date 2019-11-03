@@ -2,7 +2,7 @@
 title: "NSF DLSE Workshop Home Page"
 layout: single
 toc: true
-toc_label: "Page Navigation"
+toc_label: "Navigation"
 author_profile: true
 ---
 
