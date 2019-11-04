@@ -18,8 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Time | Room | Event
 ------------ | -------------
 5:00pm - 6:00pm | Dinner Room | Light Dinner and Reception
-6:00pm - 6:20pm | Plenary Room | [Lightning Talk 1]() - Presenter 1
-6:20pm - 6:40pm | Plenary Room | [Lightning Talk 2]() - Presenter 2
+6:00pm - 6:20pm | Plenary Room | [*Neural Program Synthesis*]() - Rishabh Singh
+6:20pm - 6:40pm | Plenary Room | [*Debugging Deep Learning Models Using Program Analysis Techniques]() - Xiangyu Zhang
 6:40pm - 7:00pm | Plenary Room | [Lightning Talk 3]() - Presenter 3
 
 ### Monday November 11th
@@ -113,13 +113,13 @@ Time | Room | Event
     * Session Lead: [Prem Devanbu]()
   * **Breakout Session 2**: *Verification & Validation of Deep Learning Systems*
     * Session Lead: [Matt Dwyer]()
-  * **Breakout Session 3**: *Development Challeneges for Deep Learning Systems*
+  * **Breakout Session 3**: *Development & Deployment Challeneges for Deep Learning Systems*
     * Session Lead: [Mike Lowry]()
   * **Breakout Session 4**: *Maintenance of Deep Learning Systems*
     * Session Lead: [Xiangyu Zhang]()
   * **Breakout Session 5**: *Testing of Deep Learning Systems*
     * Session Lead: [Baishakhi Ray]()
-  * **Breakout Session 6**: *Deployment of Deep Learning Systems*
+  * **Breakout Session 6**: *Deep Learning for Code Generation*
     * Session Lead: [Rishab Singh]()
   * **Breakout Session 7**: *Cross Cutting Concerns for Deep Learning & Software Engineering*
     * Session Lead: [Denys Poshyvanyk]()
