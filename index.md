@@ -1,5 +1,4 @@
 ---
-title: "NSF DLSE Workshop Home Page"
 layout: single
 author_profile: true
 classes: wide
