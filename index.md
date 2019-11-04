@@ -17,10 +17,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Time | Room | Event
 ------------ | -------------
-5:00pm - 6:00pm | Room 1 | Light Dinner and Reception
-6:00pm - 6:20pm | Room 2 | [Lightning Talk 1]() - Presenter 1
-6:20pm - 6:40pm | Room 2 | [Lightning Talk 2]() - Presenter 2
-6:40pm - 7:00pm | Room 2 | [Lightning Talk 3]() - Presenter 3
+5:00pm - 6:00pm | Dinner Room | Light Dinner and Reception
+6:00pm - 6:20pm | Plenary Room | [Lightning Talk 1]() - Presenter 1
+6:20pm - 6:40pm | Plenary Room | [Lightning Talk 2]() - Presenter 2
+6:40pm - 7:00pm | Plenary Room | [Lightning Talk 3]() - Presenter 3
 
 ### Monday November 11th
 
@@ -28,8 +28,8 @@ Time | Room | Event
 
 Time | Room | Event
 ------------ | -------------
-8:30am - 8:45am | Plenary Room | [Workshop Introduction](#workshop-introduction) - Sol, Baishaki, and Denys
-8:45am - 9:00am | Plenary Room | [Workshop Logistics](#workshop-logistics) - Baishaki & Denys
+8:30am - 8:45am | Plenary Room | [Workshop Introduction](#workshop-introduction) - Sol, Baishakhi, and Denys
+8:45am - 9:00am | Plenary Room | [Workshop Logistics](#workshop-logistics) - Baishakhi & Denys
 9:00am - 10:00am | Plenary Room | [Participant Introductions](#workshop-participant-introductions) - All Participants
 10:00am - 10:30am | Plenary Room | [Introduction of Breakout Session Topics](#introduction-of-breakout-sessions) - Session Leads
 
@@ -89,13 +89,13 @@ Time | Room | Event
 ### Workshop Introduction
 * **Time:** 8:30am - 8:45am
 * **Room:** Plenary Room
-* **Presenters:** Sol, Baishaki, and Denys
+* **Presenters:** Sol, Baishakhi, and Denys
 * **Description:** The organizing committee will open the workshop and introduce its purpose and themes.
 
 ### Workshop Logistics
 * **Time:** 8:45am - 9:00am
 * **Room:** Plenary Room
-* **Presenters:** Baishaki, and Denys
+* **Presenters:** Baishakhi, and Denys
 * **Description:** The workshop schedule and logistics will be discussed.
 
 ### Workshop Participant Introductions
@@ -118,7 +118,7 @@ Time | Room | Event
   * **Breakout Session 4**: *Maintenance of Deep Learning Systems*
     * Session Lead: [Xiangyu Zhang]()
   * **Breakout Session 5**: *Testing of Deep Learning Systems*
-    * Session Lead: [Baishaki Ray]()
+    * Session Lead: [Baishakhi Ray]()
   * **Breakout Session 6**: *Deployment of Deep Learning Systems*
     * Session Lead: [Rishab Singh]()
   * **Breakout Session 7**: *Cross Cutting Concerns for Deep Learning & Software Engineering*
@@ -131,7 +131,7 @@ Time | Room | Event
 
 [Denys Poshyvanyk](http://www.cs.wm.edu/~denys/index.html)
 
-[Baishaki Ray](http://rayb.info)
+[Baishakhi Ray](http://rayb.info)
 
 [Sol Greenspan](https://www.nsf.gov/staff/staff_bio.jsp?lan=sgreensp&org=NSF&from_org=NSF)
 
