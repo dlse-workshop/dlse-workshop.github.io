@@ -39,7 +39,7 @@ Time | Room | Event
 ------------ | -------------
 5:00pm - 6:00pm | Dinner Room | Light Dinner and Reception
 6:00pm - 6:20pm | Plenary Room | [*Neural Program Synthesis*]() - Rishabh Singh
-6:20pm - 6:40pm | Plenary Room | [*Debugging Deep Learning Models Using Program Analysis Techniques]() - Xiangyu Zhang
+6:20pm - 6:40pm | Plenary Room | [*Debugging Deep Learning Models Using Program Analysis Techniques*]() - Xiangyu Zhang
 6:40pm - 7:00pm | Plenary Room | [Lightning Talk 3]() - Presenter 3
 
 ### Monday November 11th
