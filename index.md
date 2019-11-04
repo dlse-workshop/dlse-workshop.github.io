@@ -37,10 +37,10 @@ For more specific topics, please see the list of topics for [Breakout Sessions](
 
 Time | Room | Event
 ------------ | -------------
-5:00pm - 6:00pm | Dinner Room | Light Dinner and Reception
-6:00pm - 6:20pm | Plenary Room | [*Neural Program Synthesis*]() - Rishabh Singh
-6:20pm - 6:40pm | Plenary Room | [*Debugging Deep Learning Models Using Program Analysis Techniques*]() - Xiangyu Zhang
-6:40pm - 7:00pm | Plenary Room | [Lightning Talk 3]() - Presenter 3
+5:00pm - 6:00pm | Kensington 2 | Light Dinner and Reception
+6:00pm - 6:20pm | Kensington 2 | [*Neural Program Synthesis*]() - Rishabh Singh
+6:20pm - 6:40pm | Kensington 2 | [*Debugging Deep Learning Models Using Program Analysis Techniques*]() - Xiangyu Zhang
+6:40pm - 7:00pm | Kensington 2 | [Lightning Talk 3]() - Presenter 3
 
 ### Monday November 11th
 
@@ -133,7 +133,7 @@ Time | Room | Event
     * Session Lead: [Prem Devanbu]()
   * **Breakout Session 2**: *Verification & Validation of Deep Learning Systems*
     * Session Lead: [Matt Dwyer]()
-  * **Breakout Session 3**: *Development & Deployment Challeneges for Deep Learning Systems*
+  * **Breakout Session 3**: *Development & Deployment Challenges for Deep Learning Systems*
     * Session Lead: [Mike Lowry]()
   * **Breakout Session 4**: *Maintenance of Deep Learning Systems*
     * Session Lead: [Xiangyu Zhang]()
