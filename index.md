@@ -7,9 +7,30 @@ classes: wide
 
 This is the website for the 2019 NSF Workshop on Deep Learning and Software Engineering (DLSE) co-located with the 34th IEEE/ACM International Conference on Automated Software Engineering ([ASE'19](https://2019.ase-conferences.org)). 
 
-## Workshop Theme & Purpose
+## Workshop Purpose
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The goal of this workshop is to bring together an international group of researchers and practitioners who work at the intersection of software engineering and deep learning for an intensive period of discussion. There are clear instances where SE researchers could benefit from collaboration with DL researchers and vice versa. Thus, the overarching theme of this discussion will be related to the synergies that exist between research on SE and DL, and the most promising avenues of future work that should be prioritized to advance both fields.
+ 
+More specifically the aims of the workshop are: 
+
+ * To identify aspects of the engineering processes of DL-based software systems that need support from SE researchers.
+ * To identify aspects of traditional SE processes that DL-researchers could help support through research on new algorithms or representations.
+ * To outline an agenda for future work at the intersection of SE and DL.
+ * To help bring about new interdisciplinary collaborations.
+
+Topics for discussion include but are by no means limited to the following:
+ 
+* Methods for effectively representing software engineering artifacts in DL models (e.g., sequences, graphs, etc.).
+* SE tasks that exhibit opportunity for improvement or automation using DL models (e.g. code completion, program repair, documentation, code synthesis, etc.).
+* Best practices for applying DL to SE tasks.
+* Methods for effective testing of DL models and software systems.
+* Methods for improving the interpretability of DL models and software systems.
+* Methods for creating, managing, and testing data related to DL models and software systems.
+* Privacy, safety, security, and ethical concerns related to DL models and software systems.
+* Novel abstraction and representation of DL model engineering artifacts/states that allow innovative solutions to DL engineering challenges
+* Engineering challenges of intelligent systems that require inter-play of DL models and traditional software components (e.g., autonomous vehicle engineering, software applications allowing audio input)
+
+For more specific topics, please see the list of topics for [Breakout Sessions](#introduction-of-breakout-sessions).
 
 ## Program Overview
 
