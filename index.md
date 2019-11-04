@@ -109,13 +109,20 @@ Time | Room | Event
 * **Room:** Plenary Room
 * **Presenters:** All Participants
 * **Description:** Each Breakout session leader will introduce thier own session, including its themes and goals.
-  * **Session 1**: *Deep Learning for Software Engineering* - Prem Devanbu
-  * **Session 2**: *Verification & Validation of Deep Learning Systems* - Matt Dwyer
-  * **Session 3**: *Development Challeneges for Deep Learning Systems* - Mike Lowry
-  * **Session 4**: *Maintenance of Deep Learning Systems* - Xiangyu 
-  * **Session 5**: *Testing of Deep Learning Systems* - Baishaki Ray
-  * **Session 6**: *Deployment of Deep Learning Systems* - Rishab Singh
-  * **Session 7**: *Cross Cutting Concerns for Deep Learning & Software Engineering* - Denys Poshyvanyk
+  * **Breakout Session 1**: *Deep Learning for Software Engineering*
+   * Session Lead: [Prem Devanbu]()
+  * **Breakout Session 2**: *Verification & Validation of Deep Learning Systems*
+   * Session Lead: [Matt Dwyer]()
+  * **Breakout Session 3**: *Development Challeneges for Deep Learning Systems*
+   * Session Lead: [Mike Lowry]()
+  * **Breakout Session 4**: *Maintenance of Deep Learning Systems*
+   * Session Lead: [Xiangyu Zhang]()
+  * **Breakout Session 5**: *Testing of Deep Learning Systems*
+   * Session Lead: [Baishaki Ray]()
+  * **Breakout Session 6**: *Deployment of Deep Learning Systems*
+   * Session Lead: [Rishab Singh]()
+  * **Breakout Session 7**: *Cross Cutting Concerns for Deep Learning & Software Engineering*
+   * Session Lead: [Denys Poshyvanyk]()
 
 
 
